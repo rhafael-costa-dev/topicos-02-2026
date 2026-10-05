@@ -1,0 +1,5 @@
+{
+    "servidor": "localhost",
+    "porta": 8080,
+    "debug": true
+}
